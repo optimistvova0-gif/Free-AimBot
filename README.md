@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Open Aimbot</h1>
+    <h1>Free AimBot</h1>
     <p>
         <!-- GitHub Releases -->
         <a href="https://github.com/ttwizz/Open-Aimbot/releases">
@@ -54,3 +54,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ttwizz/Open-Aimbot/ma
     <img src="https://i.gyazo.com/3c36be2f6dd82c196967d0dcd61145a7.gif" alt="Open Aimbot" />
     Copyright (c) 2024 ttwiz_z
 </p>
+
