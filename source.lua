@@ -19,7 +19,7 @@
     Release 1.9.5
 
     twix.cyou/pix
-    twix.cyou/OpenAimbotV3rm
+    twix.cyou/OpenAimbotV3rm 
 
     Author: ttwiz_z (ttwizz) <i@twix.cyou>
     License: MIT
@@ -2497,4 +2497,5 @@ local AimbotLoop; AimbotLoop = RunService[UISettings.RenderingMode]:Connect(func
             end
         end
     end
+
 end)
