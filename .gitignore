@@ -12,7 +12,7 @@ luac.out
 *.ko
 *.obj
 *.elf
-
+ 
 # Precompiled Headers
 *.gch
 *.pch
